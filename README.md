@@ -12,7 +12,10 @@ technical skills, problem-solving, and documentation.
 
 ## Featured Projects
 - Poisson Regression: Predicting Job Offers (R)
+  
 - Java Time Traveler Game (Java)
+  ttps://github.com/yasminedcole-creator/java-time-traveler-game/tree/main
+
 - UX / Web Project (Wix-based)
 
 ## Skills & Tools
