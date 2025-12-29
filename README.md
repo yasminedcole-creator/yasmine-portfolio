@@ -14,9 +14,11 @@ technical skills, problem-solving, and documentation.
 - Poisson Regression: Predicting Job Offers (R)
   
 - Java Time Traveler Game (Java)
-  ttps://github.com/yasminedcole-creator/java-time-traveler-game/tree/main
+  https://github.com/yasminedcole-creator/java-time-traveler-game/tree/main
 
 - UX / Web Project (Wix-based)
+ https://github.com/yasminedcole-creator/wix-ux-project
+
 
 ## Skills & Tools
 R, Java, GitHub, Data Analysis, Statistical Modeling, UX Design
