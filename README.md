@@ -11,14 +11,27 @@ This GitHub contains selected academic and personal projects demonstrating
 technical skills, problem-solving, and documentation.
 
 ## Featured Projects
-- Poisson Regression: Predicting Job Offers (R)
-  https://github.com/yasminedcole-creator/poisson-regression-job-offers
-  
-- Java Time Traveler Game (Java)
-  https://github.com/yasminedcole-creator/java-time-traveler-game/tree/main
 
-- UX / Web Project (Wix-based)
- https://github.com/yasminedcole-creator/wix-ux-project
+### 📊 Poisson Regression: Predicting Job Offers (R)
+Statistical modeling project using Poisson regression to analyze how internships,
+soft skills, and networking impact job offer counts.  
+➡️ https://github.com/yasminedcole-creator/poisson-regression-job-offers
+
+### 🎮 Java Time Traveler Game (Java)
+Multi-class Java adventure game demonstrating object-oriented programming,
+command handling, and game state management.  
+➡️ https://github.com/yasminedcole-creator/java-time-traveler-game
+
+### 🎨 UX / Web Design Project (Wix + Visily)
+UX-focused web and app design project including a live Wix site
+and an interactive Visily prototype.  
+➡️ https://github.com/yasminedcole-creator/wix-ux-project
+
+### 🦇 Batman Text Mining Project (R)
+Text analytics project using R Markdown to analyze unstructured,
+Batman-related textual data and present reproducible results.  
+➡️ https://github.com/yasminedcole-creator/batman-text-mining-project
+
 
 
 ## Skills & Tools
