@@ -3,6 +3,10 @@
 ## About Me
 Recent Information Technology graduate with experience in:
 - Data analytics & statistical modeling
+- MS Project
+- Office 365
+- R
+- R-markdown
 - Java programming
 - UX & web-based projects
 - Cybersecurity coursework
