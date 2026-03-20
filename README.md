@@ -22,6 +22,11 @@ technical skills, problem-solving, and documentation.
 
 
 ## Featured Projects
+### ServiceNow IT Ticket Portfolio
+Hands-on IT support portfolio documenting real help desk tickets worked 
+and resolved using ServiceNow. Includes full incident lifecycle — intake, 
+troubleshooting, work notes, SLA tracking, and resolution documentation.
+https://github.com/yasminedcole-creator/-ServiceNow-Ticket-Portfolio
 
 ### Poisson Regression: Predicting Job Offers (R)
 Statistical modeling project using Poisson regression to analyze how internships,
