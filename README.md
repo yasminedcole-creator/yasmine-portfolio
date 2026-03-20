@@ -1,4 +1,4 @@
-# Yasmine Johnson — IT & Data Portfolio
+# Yasmine Cole — IT Professional Portfolio
 
 ## About Me
 Recent Information Technology graduate with experience in:
