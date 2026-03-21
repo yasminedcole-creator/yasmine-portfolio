@@ -14,15 +14,17 @@ Recent Information Technology graduate with experience in:
 This GitHub contains selected academic and personal projects demonstrating
 technical skills, problem-solving, and documentation.
 
+
+## Featured Projects
+### ServiceNow IT Ticket Portfolio
+ IT support portfolio documenting real help desk tickets worked 
+and resolved using ServiceNow. Includes full incident lifecycle, intake, 
+troubleshooting, work notes, SLA tracking, and resolution documentation.
 ## 🛠️ Tools & Platforms
 - **Ticketing:** ServiceNow
 - **Hardware:** Sharp MFP Printers, Windows Workstations, Laptops
 - **Software:** Microsoft Teams, Microsoft Outlook, Windows 10/11
 - **Skills:** Incident Management, Remote Troubleshooting, End-User Support, Documentation
-
-
-## Featured Projects
-### ServiceNow IT Ticket Portfolio
  IT support portfolio documenting real help desk tickets worked 
 and resolved using ServiceNow. Includes full incident lifecycle, intake, 
 troubleshooting, work notes, SLA tracking, and resolution documentation.
