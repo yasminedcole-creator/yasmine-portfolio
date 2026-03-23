@@ -22,11 +22,11 @@ https://github.com/yasminedcole-creator/-ServiceNow-Ticket-Portfolio
 and resolved using ServiceNow. Includes full incident lifecycle, intake, 
 troubleshooting, work notes, SLA tracking, and resolution documentation.
 ## 🛠️ Tools & Platforms
-- **Ticketing:** ServiceNow
-- **Hardware:** Sharp MFP Printers, Windows Workstations, Laptops
-- **Software:** Microsoft Teams, Microsoft Outlook, Windows 10/11
-- **Skills:** Incident Management, Remote Troubleshooting, End-User Support, Documentation
- IT support portfolio documenting real help desk tickets worked 
+**Ticketing:** ServiceNow
+**Hardware:** Sharp MFP Printers, Windows Workstations, Laptops
+**Software:** Microsoft Teams, Microsoft Outlook, Windows 10/11
+**Skills:** Incident Management, Remote Troubleshooting, End-User Support, Documentation
+IT support portfolio documenting real help desk tickets worked 
 and resolved using ServiceNow. Includes full incident lifecycle, intake, 
 troubleshooting, work notes, SLA tracking, and resolution documentation.
 
