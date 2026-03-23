@@ -1,69 +1,50 @@
 # Yasmine Cole — IT Professional Portfolio
 
 ## About Me
-Recent Information Technology graduate with experience in:
-- Data analytics & statistical modeling
-- MS Project
-- Office 365
-- R
-- R-markdown
-- Java programming
-- UX & web-based projects
-- Cybersecurity coursework
+
+Recent Information Technology graduate with hands-on experience in:
+
+| Area | Skills |
+|---|---|
+| Identity & Cloud Admin | Microsoft 365, Entra ID (Azure AD), MFA, SSPR |
+| Ticketing & Support | ServiceNow, Incident Management, End-User Support |
+| Programming | Java, R, R-Markdown |
+| Data & Analytics | Statistical Modeling, Poisson Regression, Text Mining |
+| Design & UX | Wix, Visily, Web-based Projects |
+| Other | MS Project, Cybersecurity Coursework, GitHub |
 
 This GitHub contains selected academic and personal projects demonstrating
 technical skills, problem-solving, and documentation.
 
+---
 
-## Featured Projects
-### ServiceNow IT Ticket Portfolio
-https://github.com/yasminedcole-creator/-ServiceNow-Ticket-Portfolio
- IT support portfolio documenting real help desk tickets worked 
-and resolved using ServiceNow. Includes full incident lifecycle, intake, 
-troubleshooting, work notes, SLA tracking, and resolution documentation.
+## 🗂️ Featured Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| [ServiceNow IT Ticket Portfolio](https://github.com/yasminedcole-creator/-ServiceNow-Ticket-Portfolio) | ServiceNow | Real helpdesk tickets with full incident lifecycle, intake, troubleshooting, SLA tracking and resolution documentation |
+| [Microsoft 365 & Entra ID Lab](https://github.com/yasminedcole-creator/m365-entra-lab) | M365 · Entra ID · PowerShell | Hands-on IT admin lab covering user provisioning, license assignment, MFA, SSPR, and full offboarding workflow |
+| [Poisson Regression: Job Offers](https://github.com/yasminedcole-creator/poisson-regression-job-offers) | R | Statistical modeling project analyzing how internships, soft skills and networking impact job offer counts |
+| [Java Time Traveler Game](https://github.com/yasminedcole-creator/java-time-traveler-game) | Java | Multi-class adventure game demonstrating OOP, command handling and game state management |
+| [UX / Web Design Project](https://github.com/yasminedcole-creator/wix-ux-project) | Wix · Visily | UX-focused web and app design with a live Wix site and interactive Visily prototype |
+| [Batman Text Mining Project](https://github.com/yasminedcole-creator/batman-text-mining-project) | R · R-Markdown | Text analytics project analyzing unstructured Batman-related data with reproducible results |
+
+---
+
 ## 🛠️ Tools & Platforms
-**Ticketing:** ServiceNow
-**Hardware:** Sharp MFP Printers, Windows Workstations, Laptops
-**Software:** Microsoft Teams, Microsoft Outlook, Windows 10/11
-**Skills:** Incident Management, Remote Troubleshooting, End-User Support, Documentation
-IT support portfolio documenting real help desk tickets worked 
-and resolved using ServiceNow. Includes full incident lifecycle, intake, 
-troubleshooting, work notes, SLA tracking, and resolution documentation.
 
-### Microsoft 365 & Entra ID — IT Admin Lab
-https://github.com/yasminedcole-creator/m365-entra-lab
-Hands on IT administration lab simulating a real-world helpdesk 
-environment using Microsoft 365 and Microsoft Entra ID (Azure AD). 
-Covers the full user lifecycle from onboarding to offboarding including 
-user provisioning, license assignment, security group management, MFA 
-enforcement, Self-Service Password Reset (SSPR), and a complete leaver 
-workflow disabling accounts, revoking cloud sessions, removing licenses, 
-and deleting users.
+| Category | Tools |
+|---|---|
+| **Identity & Access** | Microsoft Entra ID, MFA, SSPR, Azure AD |
+| **Cloud Admin** | Microsoft 365 Admin Center, Exchange Online |
+| **Ticketing** | ServiceNow |
+| **Scripting** | PowerShell, R, Java |
+| **Hardware** | Sharp MFP Printers, Windows Workstations, Laptops |
+| **Software** | Microsoft Teams, Outlook, Windows 10/11 |
+| **Skills** | User Lifecycle Management, Incident Management, Remote Troubleshooting, Documentation |
 
-### Poisson Regression: Predicting Job Offers (R)
-Statistical modeling project using Poisson regression to analyze how internships,
-soft skills, and networking impact job offer counts.  
-https://github.com/yasminedcole-creator/poisson-regression-job-offers
+---
 
-### Java Time Traveler Game (Java)
-Multi-class Java adventure game demonstrating object-oriented programming,
-command handling, and game state management.  
-https://github.com/yasminedcole-creator/java-time-traveler-game
+## 📬 Contact
 
-### UX / Web Design Project (Wix + Visily)
-UX-focused web and app design project including a live Wix site
-and an interactive Visily prototype.  
-https://github.com/yasminedcole-creator/wix-ux-project
-
-###  Batman Text Mining Project (R)
-Text analytics project using R Markdown to analyze unstructured,
-Batman-related textual data and present reproducible results.  
-https://github.com/yasminedcole-creator/batman-text-mining-project
-
-
-
-## Skills & Tools
-R, Java, GitHub, Data Analysis, Statistical Modeling, UX Design
-
-## Contact
 LinkedIn: https://www.linkedin.com/in/yasmine-johnson-5b04a42b7/
