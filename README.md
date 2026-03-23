@@ -31,13 +31,13 @@ and resolved using ServiceNow. Includes full incident lifecycle, intake,
 troubleshooting, work notes, SLA tracking, and resolution documentation.
 
 ### Microsoft 365 & Entra ID — IT Admin Lab
-
-Hands-on IT administration lab simulating a real-world helpdesk 
+https://github.com/yasminedcole-creator/m365-entra-lab
+Hands on IT administration lab simulating a real-world helpdesk 
 environment using Microsoft 365 and Microsoft Entra ID (Azure AD). 
 Covers the full user lifecycle from onboarding to offboarding including 
 user provisioning, license assignment, security group management, MFA 
 enforcement, Self-Service Password Reset (SSPR), and a complete leaver 
-workflow — disabling accounts, revoking cloud sessions, removing licenses, 
+workflow disabling accounts, revoking cloud sessions, removing licenses, 
 and deleting users.
 
 ### Poisson Regression: Predicting Job Offers (R)
